@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Renato\\Desktop\\Curso Android\\Instagram Clone\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Renato\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\3c6f26d19f7d97237a706bee009ce53b\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Renato\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\9b26045bb1a92d9fa8f5f963d552646d\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                }
+            ]
+        }
+    ]
+}

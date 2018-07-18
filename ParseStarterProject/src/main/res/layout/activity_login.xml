@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo_degrade"
+    android:gravity="center_vertical|center_horizontal"
+    android:padding="15dp"
+    tools:context="com.parse.starter.activity.LoginActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="160dp"
+        android:layout_height="55dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        app:srcCompat="@drawable/logo" />
+
+    <EditText
+        android:id="@+id/login_usuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white"
+        android:hint="Digite seu Usuário"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:padding="5dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text=""
+        android:background="@drawable/fundo_caixa_texto"/>
+
+    <EditText
+        android:id="@+id/login_senha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/login_usuario"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/fundo_caixa_texto"
+        android:ems="10"
+        android:hint="Digite sua senha"
+        android:inputType="textPassword"
+        android:padding="5dp"
+        android:textColor="@android:color/white"
+        android:textColorHint="@android:color/white" />
+
+    <Button
+        android:id="@+id/login_botao_logar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login_senha"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Logar"
+        android:background="@drawable/fundo_botao"/>
+
+        <TextView
+            android:id="@+id/login_criar_conta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/login_botao_logar"
+            android:layout_centerHorizontal="true"
+            android:onClick="abrirCadastroUsuario"
+            android:text="@string/nao_tem_conta_crie" />
+    </RelativeLayout>
+</RelativeLayout>

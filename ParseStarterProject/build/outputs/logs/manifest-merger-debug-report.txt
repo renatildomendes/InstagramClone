@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-50:12
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-50:12
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-50:12
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-50:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\abc99cce14973c1395ba23822784502d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3c6f26d19f7d97237a706bee009ce53b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a4410b6d558ff12ee8af87c64c59497c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\37c203f798ff5c48bd4b69e95bd6873d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\177c9ea4e5440b8cfa036d71647bad64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee632f6c1aa2559d9bf9cc712a0dea6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bd897665c958198283709b8381f46d6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ea971548a5f506d94c87d0ae4aaa8db1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\06d00dad4af4b4b776e7298efdbf6120\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d886cd3c5107771bf27960709bfba2f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9b26045bb1a92d9fa8f5f963d552646d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a548162b4cd8f43a358d830ac74260ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9deae283fc2da515ea8a9dd4ceade462\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\02bac751f63a3a77efd65c826206af6c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\11644fdb1dfcebc773a60893541903a4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5d329926b1d3ea32706ea070be2300fc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\436f8dc841fa1ed1954575c625349954\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-50:12
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-50:12
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-50:12
+	package
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-50:12
+		INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:1-50:12
+		INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:16:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\37c203f798ff5c48bd4b69e95bd6873d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\37c203f798ff5c48bd4b69e95bd6873d\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:19:9-44
+	android:allowBackup
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:26:13-48
+activity#com.parse.starter.activity.LoginActivity
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:30:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:34:27-74
+activity#com.parse.starter.activity.MainActivity
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:37:9-59
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:37:19-56
+activity#com.parse.starter.activity.CadastroActivity
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:38:9-63
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:38:19-60
+activity#com.parse.starter.activity.FeedUsuariosActivity
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:39:9-47:20
+	android:parentActivityName
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:42:13-64
+	android:label
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:41:13-65
+	android:theme
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:40:13-58
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:44:13-46:75
+	android:value
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:46:17-72
+	android:name
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml:45:17-63
+uses-sdk
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\abc99cce14973c1395ba23822784502d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\abc99cce14973c1395ba23822784502d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3c6f26d19f7d97237a706bee009ce53b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3c6f26d19f7d97237a706bee009ce53b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a4410b6d558ff12ee8af87c64c59497c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a4410b6d558ff12ee8af87c64c59497c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\37c203f798ff5c48bd4b69e95bd6873d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\37c203f798ff5c48bd4b69e95bd6873d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\177c9ea4e5440b8cfa036d71647bad64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\177c9ea4e5440b8cfa036d71647bad64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee632f6c1aa2559d9bf9cc712a0dea6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ee632f6c1aa2559d9bf9cc712a0dea6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bd897665c958198283709b8381f46d6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\bd897665c958198283709b8381f46d6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ea971548a5f506d94c87d0ae4aaa8db1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ea971548a5f506d94c87d0ae4aaa8db1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\06d00dad4af4b4b776e7298efdbf6120\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\06d00dad4af4b4b776e7298efdbf6120\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d886cd3c5107771bf27960709bfba2f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d886cd3c5107771bf27960709bfba2f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9b26045bb1a92d9fa8f5f963d552646d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\9b26045bb1a92d9fa8f5f963d552646d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a548162b4cd8f43a358d830ac74260ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\a548162b4cd8f43a358d830ac74260ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9deae283fc2da515ea8a9dd4ceade462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\9deae283fc2da515ea8a9dd4ceade462\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\02bac751f63a3a77efd65c826206af6c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\02bac751f63a3a77efd65c826206af6c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\11644fdb1dfcebc773a60893541903a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\11644fdb1dfcebc773a60893541903a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5d329926b1d3ea32706ea070be2300fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5d329926b1d3ea32706ea070be2300fc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\436f8dc841fa1ed1954575c625349954\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Renato\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\436f8dc841fa1ed1954575c625349954\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\src\main\AndroidManifest.xml

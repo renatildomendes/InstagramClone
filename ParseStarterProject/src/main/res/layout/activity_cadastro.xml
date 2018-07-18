@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo_degrade"
+    android:gravity="top"
+    tools:context="com.parse.starter.activity.CadastroActivity">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:layout_marginTop="15dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="160dp"
+            android:layout_height="120dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="0dp"
+            app:srcCompat="@drawable/usuario" />
+
+        <EditText
+            android:id="@+id/cadastro_nome"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/imageView"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/fundo_caixa_texto"
+            android:ems="10"
+            android:hint="Digite seu usuário"
+            android:inputType="textPersonName"
+            android:padding="@dimen/padding_texto_cadastro"
+            android:text=""
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white" />
+        <EditText
+            android:id="@+id/cadastro_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white"
+            android:hint="Digite seu e-mail"
+            android:layout_below="@+id/cadastro_nome"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margem_superior_views_cadastro"
+            android:padding="@dimen/padding_texto_cadastro"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text=""
+            android:background="@drawable/fundo_caixa_texto"/>
+
+        <EditText
+            android:id="@+id/cadastro_senha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/cadastro_email"
+            android:layout_marginTop="@dimen/margem_superior_views_cadastro"
+            android:background="@drawable/fundo_caixa_texto"
+            android:ems="10"
+            android:hint="Digite sua senha"
+            android:inputType="textPassword"
+            android:padding="@dimen/padding_texto_cadastro"
+            android:textColor="@android:color/white"
+            android:textColorHint="@android:color/white" />
+
+        <Button
+            android:id="@+id/cadastro_botao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cadastro_senha"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/margem_superior_views_cadastro"
+            android:text="Cadastrar"
+            android:background="@drawable/fundo_botao"/>
+
+        <TextView
+            android:id="@+id/cadastro_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cadastro_botao"
+            android:layout_centerHorizontal="true"
+            android:onClick="abrirLoginUsuario"
+            android:text="@string/ja_tem_conta_faca_login" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

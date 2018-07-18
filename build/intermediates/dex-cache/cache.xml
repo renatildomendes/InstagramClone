@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Renato\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-10d5a18f14187d283be65f5c871dcf54a64828be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-5009337469f1d3aa52e4b9a67b6637fe3d2d018e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-c72b69186cca56037884462c97e5c288b38b7348.jar" />
+    </item>
+    <item
+        jar="C:\Users\Renato\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\parse-android-1.13.0-2d82ff4b8e4fb6687174fb2bb93bbfff180e965a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Renato\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-9dc7476821eecc6f71fc3e14ebe1fd57145c84ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Renato\Desktop\Curso Android\Instagram Clone\Parse-Projeto-1.13.0\ParseStarterProject\build\intermediates\pre-dexed\debug\classes-cdd94ee8b2821cda35aee74d50451e2371de8018.jar" />
+    </item>
+
+</items>

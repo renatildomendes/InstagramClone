@@ -1,0 +1,13 @@
+#Wed Jul 18 07:29:32 BRT 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\Renato\\Desktop\\Curso Android\\Instagram Clone\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\46
+base.2=C\:\\Users\\Renato\\Desktop\\Curso Android\\Instagram Clone\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\47
+base.1=C\:\\Users\\Renato\\Desktop\\Curso Android\\Instagram Clone\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\48
+base.0=C\:\\Users\\Renato\\Desktop\\Curso Android\\Instagram Clone\\Parse-Projeto-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\45
